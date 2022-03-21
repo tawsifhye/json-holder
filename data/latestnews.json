@@ -1,0 +1,40 @@
+[
+    {
+        "id": "1",
+        "title": "News One",
+        "date": "4 March 2021",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A modi libero odit recusandae deserunt exercitationem placeat in beatae alias reiciendis?"
+    },
+    {
+        "id": "2",
+        "title": "News Two",
+        "date": "4 March 2021",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A modi libero odit recusandae deserunt exercitationem placeat in beatae alias reiciendis?"
+    },
+    {
+        "id": "3",
+        "title": "News Three",
+        "date": "4 March 2021",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A modi libero odit recusandae deserunt exercitationem placeat in beatae alias reiciendis?"
+    },
+    {
+        "id": "4",
+        "title": "News Four",
+        "date": "4 March 2021",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A modi libero odit recusandae deserunt exercitationem placeat in beatae alias reiciendis?"
+    },
+    {
+        "id": "5",
+        "title": "News Five",
+        "date": "4 March 2021",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A modi libero odit recusandae deserunt exercitationem placeat in beatae alias reiciendis?"
+    },
+    {
+        "id": "6",
+        "title": "News Six",
+        "date": "4 March 2021",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A modi libero odit recusandae deserunt exercitationem placeat in beatae alias reiciendis?"
+    }
+
+
+]
