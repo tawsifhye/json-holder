@@ -6,11 +6,13 @@
           {
              "type":"video",
              "title":"Topic A",
+             "slug": "topic-a",
              "videoUrl":"https://youtu.be/TsDsE9fePLk"
           },
           {
              "type":"video",
              "title":"Topic A - Demo 1 -Preventive Maintenance",
+             "slug": "topic-a-demo-1-preventive-maintenance",
              "videoUrl":"https://www.youtube.com/watch?v=cwP1vTqVaR4"
           },
           {
