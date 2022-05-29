@@ -4,18 +4,21 @@
        "title":"Module 1: Preventive Maintenance",
        "submenu":[
           {
+             "id": "1",
              "type":"video",
              "title":"Topic A",
              "slug": "topic-a",
              "videoUrl":"https://youtu.be/TsDsE9fePLk"
           },
           {
+            "id": "2",
              "type":"video",
              "title":"Topic A - Demo 1 -Preventive Maintenance",
              "slug": "topic-a-demo-1-preventive-maintenance",
              "videoUrl":"https://www.youtube.com/watch?v=cwP1vTqVaR4"
           },
           {
+            "id": "3",
              "type":"quiz",
              "title":"Review Quiz",
              "slug":"topic-a-quiz",
